@@ -1,0 +1,52 @@
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    color: white;
+    font-size: 40px;
+}
+
+#div1 {
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    color: indianred;
+    top: 0;
+    left: 0;
+    margin-top: 2%;
+    margin-left: 10%;
+    z-index: 2;
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+    background-image: url("pics/austin.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h1 {
+    display:block;
+    margin:auto;
+    font-family: 'Unica One', cursive;
+    font-size: 120px;
+    color:orangered;
+}
+
+h2 {
+    display:block;
+    margin:auto;
+    font-family: 'Unica One', cursive;
+    font-size: 100px;
+    color:yellow;
+}
+
+#call {
+    width:50%;
+}
+
+a {
+    color:white;
+}
