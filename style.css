@@ -29,6 +29,7 @@ body {
 
 h1 {
     display:block;
+    text-align: right;
     margin:auto;
     font-family: 'Unica One', cursive;
     font-size: 120px;
@@ -37,6 +38,7 @@ h1 {
 
 h2 {
     display:block;
+    text-align: right;
     margin:auto;
     font-family: 'Unica One', cursive;
     font-size: 100px;
