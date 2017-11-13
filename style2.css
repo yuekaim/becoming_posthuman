@@ -1,0 +1,23 @@
+body {
+    font-family: font-family: 'Karla', sans-serif; 
+    background-color: black;
+    color:white;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 14pt;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+a {
+    color: yellow;
+}
+
+img {
+    width: 100%;
+}

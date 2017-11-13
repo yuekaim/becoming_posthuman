@@ -1,11 +1,11 @@
-p {
+p, pre {
     display: block;
     -webkit-margin-before: 1em;
     -webkit-margin-after: 1em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     color: white;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 #div1 {
@@ -21,10 +21,10 @@ p {
     z-index: 2;
 }
 
-body {
+body{
     font-family: 'Karla', sans-serif;
     background-image: url("pics/austin.jpg");
-    background-size: 100%;
+    background-size: 80%;
     background-attachment: fixed;
 }
 
@@ -50,7 +50,7 @@ h2 {
     width:50%;
 }
 
-a {
+a{
     color:white;
 }
 
